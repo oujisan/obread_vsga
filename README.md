@@ -1,4 +1,3 @@
 # obread
 
-A new Flutter project.
-"# obread_vsga" 
+Aplikasi studi kasus sertifikasi Junior Mobile Programmer VSGA 2025
